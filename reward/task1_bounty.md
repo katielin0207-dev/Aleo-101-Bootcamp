@@ -38,3 +38,4 @@
 | ni-nico | aleo1vwsyyscy5d8pekfmzc5q9rsyux5erehlrkg86wn45upauk7qfgxse08zwm | [交易记录](https://explorer.provable.com/transaction/at1utq837uqj63mg77lqznxw7yhwpuxeqnwqrpwpcqxpnlp96cpnvpqkt5rre?utm_source=shield) |
 | Fahaxiki | aleo1uszlvmjmud64ylkzx6zumxznpz6csyutmgv99s9hhafepxpdly8su3xn25 | [交易记录](https://explorer.provable.com/transaction/at1ks5sqkwv8pcwl38466lu9fdetwnm086uhhurlapcjvlw7ppcxu9sknjytd?utm_source=shield) |
 | Yukon | aleo18tjg2nu8hvvyeuzj0qfx4j2xyfta4q2dnr5wnv8lgv4lq9rrmq8qnxr5h5 | [交易记录](https://explorer.provable.com/transaction/at1jne56rhc5jfl6k8pq0m8n4kf8042n5ydmh25vjw0vv2mxrmtsyrsnwewey?utm_source=shield) |
+| JackCC703 | aleo142k0nm4uwt2df06krr4fqkslaecgqz58ggjrnslzxt2xu5lexuxszm93cr | [交易记录](https://explorer.provable.com/transaction/at128yalhwr35z4eytfatle9dkfw4040ep7hlld8hly3zv7mkvpnczs0arefv?utm_source=shield) |
