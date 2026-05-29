@@ -1,6 +1,7 @@
 *.vscode
 .idea
 .DS_Store
+.claude
 
 # Learn directory
 learn/**/node_modules/
